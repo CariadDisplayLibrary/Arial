@@ -1,2 +1,2 @@
-Arial.cpp libraries/DisplayCore/Arial
-Arial.h libraries/DisplayCore/Arial
+src libraries/DisplayCore/Arial
+library.properties libraries/DisplayCore/Arial
