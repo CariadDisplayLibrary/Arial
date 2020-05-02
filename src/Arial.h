@@ -1,7 +1,7 @@
 #ifndef _ARIAL_H
 #define _ARIAL_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
         extern const uint8_t Arial10[];
